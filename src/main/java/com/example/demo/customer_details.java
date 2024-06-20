@@ -13,7 +13,7 @@ public class customer_details extends JFrame implements ActionListener{
     int i=0, j=0;
     customer_details(){
         super("Customer Details");
-         setSize(1200,650);
+        setSize(1200,650);
         setLocation(200,200);
 
         try{
