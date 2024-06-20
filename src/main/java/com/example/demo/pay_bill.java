@@ -20,7 +20,7 @@ public class pay_bill extends JFrame implements ActionListener{
         JScrollPane scrollPane = new JScrollPane(j);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         getContentPane().add(scrollPane);
-        setPreferredSize(new Dimension(800,600));
+        setPreferredSize(new Dimension(800,800));
         setSize(800,800);
         setLocation(250,120);
         setVisible(true);
